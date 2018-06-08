@@ -10,7 +10,7 @@
 [![dva](https://img.shields.io/badge/dva-%5E2.1.0-brightgreen.svg)](https://github.com/dvajs/dva)             
 
 
-## [预览 Preview](http://huzzbuzz.coding.me/bear-admin/)
+##
 
 Bear Admin，一个 JavaScript 应用，项目由业界最优秀的 React 应用开发工具 create-react-app 初始化创建， 搭配 Antd 开箱即用的高质量 React 组件和轻量级应用框架 Dva.js 一起，*非常适合后台产品*。
 
@@ -36,7 +36,7 @@ Bear Admin 同时也是个很好的前端脚手架学习示例，如果你在学
  :yum:简洁的界面       
  :yum:菜单主题和布局切换       
  :yum:格栅布局，fully responsive       
- :yum:Code Splitting。开启 gzip，[首屏文件仅100多KB](https://github.com/huzzbuzz/bear-admin/blob/master/screenshot/filesize.png)，应用载入速度超快                
+ :yum:Code Splitting。开启 gzip，应用载入速度超快                
  :yum:高质量脚手架                 
  :yum:eject create-react-app 配置，按需定制（OR [override create-react-app webpack configs without ejecting](https://github.com/timarney/react-app-rewired)）                     
  :yum:支持更多语言特性和 polyfills，发现更多，请访问 [create-react-app](https://github.com/facebookincubator/create-react-app) 官网
