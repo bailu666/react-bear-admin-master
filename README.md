@@ -44,7 +44,7 @@ Bear Admin 同时也是个很好的前端脚手架学习示例，如果你在学
 #### 开始
 1. 克隆源码       
 ```
-git clone https://github.com/huzzbuzz/bear-admin.git
+git clone https://github.com/bailu666/react-bear-admin-master
 ```
 
 2. 安装依赖         
